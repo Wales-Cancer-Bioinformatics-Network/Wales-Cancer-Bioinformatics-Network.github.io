@@ -20,11 +20,10 @@ author: Garan Jones; Alex Gibbs
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutwcbn"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - WCRC: "https://walescancerresearchcentre.org/"
+  Author's home: "https://insanejargon.com/"
 
 ################
 # --- Logo --- #
