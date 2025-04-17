@@ -134,16 +134,16 @@ navbar-var-length: false
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#FFFFFF"
+text-col: "#777777"
 link-col: "#00cc00"
 hover-col: "#00ff00"
 navbar-col: "#24a037"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
 footer-col: "#44d55a"
-footer-text-col: "#777777"
+footer-text-col: "#1f471f"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#00a37a"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
@@ -257,7 +257,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
