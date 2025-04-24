@@ -2,7 +2,7 @@
 layout: post
 title: April 17th meeting
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/binary_helix.png
 share-img: /assets/img/path.jpg
 tags: [meetings, WCBN]
 author: Garan Jones
