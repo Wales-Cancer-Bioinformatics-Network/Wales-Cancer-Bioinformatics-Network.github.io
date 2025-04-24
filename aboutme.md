@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Wales Cancer Bioinformatics Network
+title: About Us
 ---
 
 A forum for cancer researchers and bioinformaticians to shar their experience of working with cancer data, learn from peers and engage with invited speakers.
