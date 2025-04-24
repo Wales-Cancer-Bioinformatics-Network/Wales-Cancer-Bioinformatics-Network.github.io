@@ -1,6 +1,6 @@
 ---
 layout: post
-title: April 17th meeting
+title: WCBN April 17th meeting
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/binary_helix.png
 share-img: /assets/img/path.jpg
