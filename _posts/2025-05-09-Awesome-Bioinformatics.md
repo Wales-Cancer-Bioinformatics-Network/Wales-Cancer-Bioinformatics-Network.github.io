@@ -13,4 +13,4 @@ Maintained by Daniel Cook, a long time bioinformatician currently working for Go
 
 ### Contributing to Awesome Bioinformatics
  
-Contributions are via pull requests to the Github repo, https://github.com/danielecook/Awesome-Bioinformatics/blob/master/CONTRIBUTING.md
+Contributions are via pull requests to the Github [repo](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/CONTRIBUTING.md)
